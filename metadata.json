@@ -1,0 +1,5 @@
+{
+  "name": "EduStream: Faculty-Student Knowledge Hub",
+  "description": "A comprehensive platform for faculty to upload study materials and for students to discover, summarize, and download notes. Powered by Gemini for instant AI-generated summaries and study guides.",
+  "requestFramePermissions": []
+}
